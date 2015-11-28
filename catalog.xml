@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://glassfish.j.scaleforce.net/webService/NewWebService?wsdl" uri="xml-resources/web-service-references/NewWebService/wsdl/glassfish.j.scaleforce.net/webService/NewWebService.wsdl"/>
+    <system systemId="http://glassfish.j.scaleforce.net:80/webService/NewWebService?xsd=1" uri="xml-resources/web-service-references/NewWebService/wsdl/glassfish.j.scaleforce.net_80/webService/NewWebService.xsd_1.xsd"/>
+    <system systemId="http://glassfish.j.scaleforce.net/web/NewWebService?wsdl" uri="xml-resources/web-service-references/NewWebService/wsdl/glassfish.j.scaleforce.net/web/NewWebService.wsdl"/>
+    <system systemId="http://glassfish.j.scaleforce.net:80/web/NewWebService?xsd=1" uri="xml-resources/web-service-references/NewWebService/wsdl/glassfish.j.scaleforce.net_80/web/NewWebService.xsd_1.xsd"/>
+</catalog>
