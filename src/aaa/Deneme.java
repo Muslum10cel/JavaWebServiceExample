@@ -15,12 +15,5 @@ public class Deneme {
 
 	public static void main(String[] args) {
 
-		DBOperations bOperations = new DBOperations();
-//		bOperations.call("IE");
-//		List<String> dept = bOperations.getAllDepartments();
-//		dept.stream().forEach(dp -> {
-//			System.out.println(dp);
-//		});
-//		System.out.println(bOperations.getCoordinates("IE").toString());
 	}
 }
