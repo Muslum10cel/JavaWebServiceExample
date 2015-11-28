@@ -40,7 +40,7 @@ public class DBOperations {
 			} catch (ClassNotFoundException | InstantiationException | IllegalAccessException ex) {
 				Logger.getLogger(DBOperations.class.getName()).log(Level.SEVERE, null, ex);
 			}
-			connection = (Connection) DriverManager.getConnection(Initialize.DB_URL1, Initialize.USERNAME1, Initialize.PASSWORD1);
+			connection = (Connection) DriverManager.getConnection(Initialize.DB_URL, Initialize.USERNAME, Initialize.PASSWORD);
 		} catch (SQLException ex) {
 			Logger.getLogger(DBOperations.class.getName()).log(Level.SEVERE, null, ex);
 		}
