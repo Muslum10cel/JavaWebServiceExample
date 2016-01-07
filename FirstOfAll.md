@@ -1,7 +1,7 @@
 # JavaWebServiceExample
 Sample WebService
 
-First of all, you have to download mysql connectors for Java, gson and json jars.
+First of all, you have to download mysql connectors for Java  and json jars.
 Then you have to create a Initialize class and specify:
 
 protected static final String CLASS_NAME="com.mysql.jdbc.Driver";
