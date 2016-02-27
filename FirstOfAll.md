@@ -2,7 +2,7 @@
 Sample WebService
 
 First of all, you have to download mysql connectors for Java  and json jars.
-Then you have to create a Initialize class and specify:
+Then you have to create a class, Initialize, and specify:
 
 protected static final String CLASS_NAME="com.mysql.jdbc.Driver";
 protected static final String DB_URL = "jdbc:mysql://DATABASE_URL:3306/DATABASE_NAME";
